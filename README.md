@@ -1,6 +1,6 @@
 # BBB TDC Submission — ADMETox.AI
 
-CatBoost classifier for Blood-Brain Barrier (BBB) penetration prediction. Submitted to the [TDC ADMET Leaderboard](https://tdcommons.ai/benchmark/admet_group/02bbb/).
+CatBoost classifier for Blood-Brain Barrier (BBB) penetration prediction. Submitted to the [TDC ADMET Leaderboard](https://tdcommons.ai/benchmark/admet_group/07bbb/).
 
 **AUROC = 0.9257 ± 0.0022** (15-seed ensemble, TDC evaluate: 0.9260 ± 0.0020) — **beats TDC SOTA 0.924** (MapLight+GNN).
 
